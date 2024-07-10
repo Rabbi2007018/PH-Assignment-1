@@ -560,3 +560,29 @@ background-color: white;
 border-radius: 10px;
 color: rgb(105, 105, 105);
 }
+
+/* foot */
+.foot{
+    width: 2020px;
+    height: 120px; 
+    margin: 0px auto;
+    margin-top: 130px;
+    border: 1px solid none;
+    border-radius: 13px;
+
+background: rgba(13, 19, 33, 0.03);
+}
+.social{
+display: flex;
+justify-content: center;
+gap: 1000px;
+align-items: center;
+padding: 45px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    
+
+}
